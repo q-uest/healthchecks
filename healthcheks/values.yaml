@@ -84,7 +84,7 @@ affinity: {}
 configmap: hc-env-cm
 
 envvars:
-  ALLOWED_HOSTS: 184.72.99.103
+  ALLOWED_HOSTS: 52.201.233.203
   APPRISE_ENABLED: "False"
   DB: postgres
   DB_CONN_MAX_AGE: "0"
